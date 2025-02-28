@@ -1,0 +1,9 @@
+id] 01030123933
+pw] !ss868452
+time]
+name] 김영운
+phonenum] 010-3012-3933
+birth] 990105
+fan_num] DIVE3-00823
+link] https://cafe.daum.net/IVEstarship/cHMX
+target_time] 17:0:0
